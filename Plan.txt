@@ -1,0 +1,7 @@
+Plan for creating solution
+
+Step 1: Get the program to read the .txt file
+Step 2: Create a HashMap to assign strings to integer values for frequency
+Step 3: Count the frequency of each entry that is added to the HashMap
+Step 4: Put the HashMap entries in an array list
+Step 5: Sort the arraylist in descending order and print the output
